@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This README contains the information about our team.
 
-### What is this repository for? ###
+### Team members ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* 1201276 - Tiago Marques
+* 1201371 - Eduardo Silva
+* 1201381 - Pedro Alves
+* 1201384 - Pedro Fernandes
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Class - 2DE\
+Teacher of PL classes - António Rua (rua@isep.ipp.pt)
