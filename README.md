@@ -9,5 +9,5 @@ This README contains the information about our team.
 * 1201381 - Pedro Alves
 * 1201384 - Pedro Fernandes
 
-Class - 2DE\
-Teacher of PL classes - António Rua (rua@isep.ipp.pt)
+Class - 2DE.<br>
+Teacher of PL classes - António Rua (rua@isep.ipp.pt).

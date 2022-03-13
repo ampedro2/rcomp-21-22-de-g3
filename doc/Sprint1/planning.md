@@ -1,13 +1,13 @@
-#Planning document #
+# Planning document #
 
 This document contains the information about the sprint’s backlog summary, general technical decisions
 regarding the coordination of the requested tasks, and finally, the task assigned to each team member
 
-##Sprint 1 ##
+## Sprint 1 ##
 
 In this section, there will be documented the data regarding the sprint 1.
 
-###Task splitting ###
+### Task splitting ###
 
 | Student number | Building |
 |:---------------|:--------:|
