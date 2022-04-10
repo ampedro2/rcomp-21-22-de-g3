@@ -1,4 +1,4 @@
-RCOMP 21/22 - Sprint 2 - PLanning document
+RCOMP 21/22 - Sprint 2 - Planning document
 ===========================================
 ### Sprint master: 1201384
 

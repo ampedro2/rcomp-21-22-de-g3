@@ -14,24 +14,24 @@ RCOMP 21/22 - Sprint 2 - Review document
 ## T.2.4 1201276 - Development of a layer two and layer three Packet Tracer simulation for building four, encompassing the campus backbone.
 ###Implemented
 ####Issues:
-- understanding the relation between encapsulation and vlans
-- implementation of the routers
+- Understanding the relation between encapsulation and vlans
+- Implementation of the routers
 
 ## T.2.2 1201371 - Development of a layer two and layer three Packet Tracer simulation for building four, encompassing the campus backbone.
 ###Implemented
 ####Issues:
-- understanding the relation between encapsulation and vlans
-- implementation of the routers
+- Understanding the relation between encapsulation and vlans
+- Implementation of the routers
 
 ## T.2.3 1201381 - Development of a layer two and layer three Packet Tracer simulation for building four, encompassing the campus backbone.
 ###Implemented
 ####Issues:
-- understanding the relation between encapsulation and vlans
-- implementation of the routers
+- Understanding the relation between encapsulation and vlans
+- Implementation of the routers
 
 ## T.2.1 1201384 - Development of a layer two and layer three Packet Tracer simulation for building four, encompassing the campus backbone.
 ###Implemented
 ####Issues:
-- understanding the relation between encapsulation and vlans
-- implementation of the routers
+- Understanding the relation between encapsulation and vlans
+- Implementation of the routers
 
