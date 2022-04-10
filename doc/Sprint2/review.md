@@ -1,6 +1,6 @@
-RCOMP 21/22 - Sprint 1 - Review document
+RCOMP 21/22 - Sprint 2 - Review document
 ===========================================
-### Sprint master:  ###
+### Sprint master: 1201384 ###
 # Sprint 2 backlog
 
 
