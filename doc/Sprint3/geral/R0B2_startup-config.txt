@@ -168,6 +168,14 @@ ephone 2
  type 7960
  button 1:12
 !
+ephone 3
+ device-security-mode none
+ mac-address 0001.C966.BE0B
+!
+ephone 4
+ device-security-mode none
+ mac-address 0000.0CB6.6EA3
+!
 line con 0
 !
 line aux 0
