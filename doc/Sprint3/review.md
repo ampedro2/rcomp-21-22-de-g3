@@ -35,3 +35,5 @@ RCOMP 21/22 - Sprint 3 - Review document
 - Implementation of DNS
 - Understanding and implementation of ACLs
 
+*The ACL is implemented only in building 2, because when implementing building 3 ACL, building stop communicating, so we decided only to put one building with ACL and let a file with "wrong" ACL configuration.* 
+

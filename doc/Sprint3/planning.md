@@ -39,7 +39,7 @@ Building 2 OSPF area id - 2
 Building 3 OSPF area id - 3
 Building 4 OSPF area id - 4
 
-###VoIP phone numbers and prefix digits schema
+###VoIP phone numbers
 
 **Building 1**
 * VOIP prefix F0 - 1000
@@ -60,19 +60,15 @@ Building 4 OSPF area id - 4
 ###DNS domain names to be used
 
 **Building 1**
-* DNS domain name: rcomp-21-22-de-g3
 * DNS server name: ns.rcomp-21-22-de-g3
 
 **Building 2**
-* DNS domain name: building-2.rcomp-21-22-de-g3
 * DNS server name: ns.building-2.rcomp-21-22-de-g3
 
 **Building 3**
-* DNS domain name: building-3.rcomp-21-22-de-g3
 * DNS server name: ns.building-3.rcomp-21-22-de-g3
 
 **Building 4**
-* DNS domain name: building-4.rcomp-21-22-de-g3
 * DNS server name: ns.building-4.rcomp-21-22-de-g3
 
 ###IPv4 node address of the DNS name server
