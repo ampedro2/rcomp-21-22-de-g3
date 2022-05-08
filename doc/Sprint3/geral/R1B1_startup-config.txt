@@ -80,26 +80,32 @@ interface FastEthernet1/0
 interface FastEthernet1/0.1
  encapsulation dot1Q 250
  ip address 172.16.216.129 255.255.255.128
+ ip nat outside
 !
 interface FastEthernet1/0.2
  encapsulation dot1Q 251
  ip address 172.16.216.1 255.255.255.128
+ ip nat inside
 !
 interface FastEthernet1/0.3
  encapsulation dot1Q 252
  ip address 172.16.218.1 255.255.255.192
+ ip nat inside
 !
 interface FastEthernet1/0.4
  encapsulation dot1Q 253
  ip address 172.16.217.129 255.255.255.128
+ ip nat inside
 !
 interface FastEthernet1/0.5
  encapsulation dot1Q 254
  ip address 172.16.218.65 255.255.255.192
+ ip nat inside
 !
 interface FastEthernet1/0.6
  encapsulation dot1Q 255
  ip address 172.16.217.1 255.255.255.192
+ ip nat inside
 !
 interface Vlan1
  no ip address
@@ -114,6 +120,10 @@ router ospf 1
 !
 router rip
 !
+ip nat inside source static tcp 172.16.217.3 80 172.16.216.129 80 
+ip nat inside source static tcp 172.16.217.3 443 172.16.216.129 443 
+ip nat inside source static tcp 172.16.217.2 53 172.16.216.129 53 
+ip nat inside source static udp 172.16.217.2 53 172.16.216.129 53 
 ip classless
 !
 ip flow-export version 9
