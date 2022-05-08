@@ -21,8 +21,6 @@ RCOMP 21/22 - Sprint 3 - Planning document
 
 * **T.3.4**-1201276
 
-
-
 # Name of the devices
 
 * **PC/Laptop/Server/IP-Phone:** [Device name][Number of device]_[Number of building]
@@ -31,3 +29,55 @@ RCOMP 21/22 - Sprint 3 - Planning document
 * **Switches(Ic):** IC_[Number of building]
 * **Switch(MC):** MC
 * **Routers:** R[Number of device][Number of Building]
+
+#Technical decisions
+
+###OSPF area IDs used
+Backbone OSPF area id - 0
+Building 1 OSPF area id - 1
+Building 2 OSPF area id - 2
+Building 3 OSPF area id - 3
+Building 4 OSPF area id - 4
+
+###VoIP phone numbers and prefix digits schema
+
+**Building 1**
+* VOIP prefix F0 - 1000
+* VOIP prefix F1 - 1001
+
+**Building 2**
+* VOIP prefix F0 - 2000
+* VOIP prefix F1 - 2001
+
+**Building 3**
+* VOIP prefix F0 - 3000
+* VOIP prefix F1 - 3001
+
+**Building 4**
+* VOIP prefix F0 - 4000
+* VOIP prefix F1 - 4001
+
+###DNS domain names to be used
+
+**Building 1**
+* DNS domain name: rcomp-21-22-de-g3
+* DNS server name: ns.rcomp-21-22-de-g3
+
+**Building 2**
+* DNS domain name: building-2.rcomp-21-22-de-g3
+* DNS server name: ns.building-2.rcomp-21-22-de-g3
+
+**Building 3**
+* DNS domain name: building-3.rcomp-21-22-de-g3
+* DNS server name: ns.building-3.rcomp-21-22-de-g3
+
+**Building 4**
+* DNS domain name: building-4.rcomp-21-22-de-g3
+* DNS server name: ns.building-4.rcomp-21-22-de-g3
+
+###IPv4 node address of the DNS name server
+
+* Building 1: 172.16.217.2
+* Building 2: 172.16.220.242
+* Building 3: 172.16.221.226
+* Building 4: 172.16.222.242

@@ -11,27 +11,27 @@ RCOMP 21/22 - Sprint 3 - Review document
 |  T.3.3 |  Update the building3.pkt layer three Packet Tracer simulation from the previous sprint, to include the described features in this sprint for building 3. |
 | T.3.4  |  Update the building4.pkt layer three Packet Tracer simulation from the previous sprint, to include the described features in this sprint for building 4. |
 
-## T.3.4 1201276 - Development of a layer two and layer three Packet Tracer simulation for building four, encompassing the campus backbone.
+## T.3.4 1201276
 ###Implemented
 ####Issues:
-- Understanding the relation between encapsulation and vlans
-- Implementation of the routers
+- Implementation of DNS
+- Understanding and implementation of ACLs
 
-## T.3.2 1201371 - Development of a layer two and layer three Packet Tracer simulation for building four, encompassing the campus backbone.
+## T.3.2 1201371
 ###Implemented
 ####Issues:
-- Understanding the relation between encapsulation and vlans
-- Implementation of the routers
+- Implementation of DNS
+- Understanding and implementation of ACLs
 
-## T.3.3 1201381 - Development of a layer two and layer three Packet Tracer simulation for building four, encompassing the campus backbone.
+## T.3.3 1201381
 ###Implemented
 ####Issues:
-- Understanding the relation between encapsulation and vlans
-- Implementation of the routers
+- Implementation of DNS
+- Understanding and implementation of ACLs
 
-## T.3.1 1201384 - Development of a layer two and layer three Packet Tracer simulation for building four, encompassing the campus backbone.
+## T.3.1 1201384
 ###Implemented
 ####Issues:
-- Understanding the relation between encapsulation and vlans
-- Implementation of the routers
+- Implementation of DNS
+- Understanding and implementation of ACLs
 
